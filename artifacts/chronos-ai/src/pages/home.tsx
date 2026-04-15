@@ -38,8 +38,8 @@ export default function Home() {
             <a href="#contact" className="hover:text-foreground transition-colors">Contact</a>
           </div>
           
-          <Button variant="default" size="sm" className="hidden sm:flex rounded-none font-mono text-xs uppercase tracking-wider px-6">
-            Book a Consultation
+          <Button asChild variant="default" size="sm" className="hidden sm:flex rounded-none font-mono text-xs uppercase tracking-wider px-6">
+            <a href="mailto:sales@chronosaiautomations.com">Book a Consultation</a>
           </Button>
         </div>
       </nav>
@@ -65,8 +65,8 @@ export default function Home() {
                 Chronos AI helps tech companies integrate AI into software delivery workflows — without compromising reliability, quality, or maintainability.
               </motion.p>
               <motion.div variants={fadeIn} className="flex flex-col sm:flex-row gap-4">
-                <Button size="lg" className="rounded-none font-mono text-sm uppercase tracking-wider h-12 px-8">
-                  Book a Consultation
+                <Button asChild size="lg" className="rounded-none font-mono text-sm uppercase tracking-wider h-12 px-8">
+                  <a href="mailto:sales@chronosaiautomations.com">Book a Consultation</a>
                 </Button>
                 <Button size="lg" variant="outline" className="rounded-none font-mono text-sm uppercase tracking-wider h-12 px-8 border-border hover:bg-muted/50">
                   See Services <ArrowRight className="ml-2 h-4 w-4" />
@@ -342,8 +342,8 @@ export default function Home() {
               <p className="text-lg text-muted-foreground mb-10 max-w-2xl mx-auto">
                 Book a discovery call and find out where AI creates the most leverage in your current workflow.
               </p>
-              <Button size="lg" className="rounded-none font-mono text-sm uppercase tracking-wider h-14 px-10">
-                Book a Consultation
+              <Button asChild size="lg" className="rounded-none font-mono text-sm uppercase tracking-wider h-14 px-10">
+                <a href="mailto:sales@chronosaiautomations.com">Book a Consultation</a>
               </Button>
             </motion.div>
           </div>
