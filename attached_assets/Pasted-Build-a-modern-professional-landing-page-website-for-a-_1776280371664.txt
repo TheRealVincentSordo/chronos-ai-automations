@@ -1,0 +1,108 @@
+Build a modern, professional landing page website for a B2B AI consulting company called Chronos AI.
+
+Business overview:
+Chronos AI helps engineering teams integrate AI into their development workflows to ship faster without sacrificing reliability. The company focuses on turning fragmented AI experiments into structured production-ready systems, including AI-assisted code generation, test automation, internal engineering copilots, and workflow automation for software teams. The positioning should feel credible, technical, and focused on measurable business outcomes for tech companies.
+
+Brand and tone:
+- Clean, modern, premium, and technical
+- Confident and credible, not hype-driven
+- Appeal to startup founders, CTOs, engineering leaders, and product teams
+- Visual style should feel similar to a high-end SaaS or developer tools company
+- Minimal, elegant, strong typography, subtle gradients or depth
+- Dark mode design preferred
+
+Tech requirements:
+- Use React with a modern framework if needed
+- Use Tailwind CSS for styling
+- Make the site fully responsive
+- Prioritize clean component structure and reusable sections
+- Include subtle animations and hover states, but keep it professional
+- Optimize for clarity, speed, and strong visual hierarchy
+
+Site goals:
+- Clearly explain what Chronos AI does
+- Build trust with technical buyers
+- Show clear outcomes and services
+- Encourage visitors to book a consultation or discovery call
+
+Pages / sections to include:
+
+1. Hero section
+- Headline: “AI systems for engineering teams that need to ship faster”
+- Subheadline explaining that Chronos AI helps tech companies integrate AI into software delivery workflows without compromising reliability, quality, or maintainability
+- Primary CTA: “Book a Consultation”
+- Secondary CTA: “See Services”
+- Include a polished visual on the right, such as an abstract AI workflow, engineering dashboard, or system architecture inspired graphic
+
+2. Trusted value proposition section
+- 3 or 4 short value props with icons:
+  - Faster software delivery
+  - Reduced engineering bottlenecks
+  - Production-first AI integration
+  - Better use of internal knowledge and tooling
+
+3. Services section
+Create service cards for:
+- AI-Assisted Development Workflows
+  - Integrate AI into code generation, PR review, and developer workflows
+- Test Automation and Reliability Systems
+  - Use AI to improve test creation, QA support, and confidence in releases
+- Internal Engineering Copilots
+  - Build AI tools that help teams navigate codebases, docs, and internal systems
+- Workflow and Tooling Automation
+  - Automate repetitive engineering and operational tasks across the software lifecycle
+
+Each card should include a title, short description, and business outcome.
+
+4. How it works section
+A simple 3-step process:
+- Assess bottlenecks
+- Design and implement AI workflows
+- Measure and optimize delivery impact
+
+5. Why Chronos AI section
+Include a strong narrative that this company is not selling generic AI transformation, but practical systems that fit real engineering teams, codebases, and delivery environments. Emphasize production-first thinking, backend systems expertise, integration complexity, and measurable outcomes.
+
+6. Outcomes section
+Show business-oriented results in a metrics style layout, such as:
+- Faster cycle times
+- Less repetitive engineering work
+- Improved release confidence
+- Better leverage from existing teams and tools
+
+Do not make up fake client logos or testimonials unless clearly marked as placeholders.
+
+7. About section
+Short founder/company positioning:
+Chronos AI combines deep backend engineering experience with practical AI implementation. The focus is on helping software teams apply AI in ways that are useful, scalable, and grounded in real delivery environments.
+
+8. Final CTA section
+Headline: “Make AI useful inside your engineering organization”
+Short supporting copy and a strong CTA button:
+- “Book a Consultation”
+
+9. Footer
+- Chronos AI logo/text
+- Navigation links
+- Contact link
+- LinkedIn link placeholder
+
+Copywriting guidance:
+- Keep copy concise, sharp, and technical
+- Avoid buzzwords like “revolutionize” or “unlock infinite potential”
+- Speak in a way that would resonate with CTOs and engineering managers
+- Focus on outcomes, systems, reliability, and practical implementation
+
+Design details:
+- Use a dark background with contrasting text
+- Strong layout spacing and modern card design
+- Rounded corners, soft borders, subtle shadows
+- Minimal but polished animations
+- Make the page feel like a premium developer infrastructure or AI systems consultancy brand
+
+Deliverables:
+- A fully working landing page
+- Clean folder structure
+- Reusable components
+- Placeholder logo text for Chronos AI
+- Easy to customize copy and styling later
