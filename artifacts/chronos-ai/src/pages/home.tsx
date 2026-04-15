@@ -17,6 +17,8 @@ const staggerContainer = {
 };
 
 export default function Home() {
+  const currentYear = new Date().getFullYear();
+
   return (
     <div className="relative min-h-screen bg-background text-foreground overflow-hidden selection:bg-primary/20 selection:text-primary">
       <div className="noise-bg" />
@@ -368,8 +370,7 @@ export default function Home() {
           </div>
 
           <div className="flex items-center gap-6 text-sm text-muted-foreground">
-            <a href="#" className="hover:text-foreground transition-colors">LinkedIn</a>
-            <span>© 2025 Chronos AI. All rights reserved.</span>
+            <span>© {currentYear} Chronos AI. All rights reserved.</span>
           </div>
         </div>
       </footer>
